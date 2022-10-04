@@ -1,0 +1,22 @@
+/*
+Seção 03 - Exercicios 03
+/*
+teste o algoritmo do exercicio 02 com dados definidos por você
+/*
+"calcular estoque médio"
+#entrada
+receber quantidade minima 
+receber quantidade maxima 
+#Processamento
+calcular o estoque médio com a formula quantidade minima + a quantidade maxima / 2
+#saida
+Mostrar o estoque medio
+/*
+#entradas
+quantidade_minima = 30
+quantidade_maxima= 60
+#processamento
+estoque_medio = (30 + 60) / 2 
+#saida
+mostrar estoque_medio
+

@@ -1,0 +1,33 @@
+seção 02
+/*
+Exercicio 03
+/*
+Descreva com detalhes a sequencia logica para trocar o pneu do carro
+/*
+"Troca de pneu"
+
+Parar o carro
+descer do carro
+Abrir o porta malas
+Pegar o triângulo de segurança
+Pegar macaco 
+Pegar chave de roda
+Pegar step
+colocar o triangulo de segurança na estrada
+afrouchar os parafuros do pneu
+usar o macaco para levantar o carro
+usar a chave de roda pra disparafuzar o pneu
+tirar o pneu furado
+pegar o pneu step
+usar a chave de roda para colocar os parafusos
+abaixar o carro com o macaco
+abaixar o carro
+remover o triangulo de segurança
+colocar o triangulo no porta malas
+colocar o macaco no porta malas
+colocar a chave de roda no porta malas 
+colocar o pneu furado no porta malas
+Fechar porta malas 
+entrar no carro 
+ligar o carro 
+partir

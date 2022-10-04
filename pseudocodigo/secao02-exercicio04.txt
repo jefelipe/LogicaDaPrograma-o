@@ -1,0 +1,15 @@
+seção 02
+/*
+Exercicio 04
+/*Faça um algoritimo para trocar uma lampada, descreva com os detalhes.
+
+"Troca de lampada"
+Desligar o interrupitor
+Pegar banco/escada
+subir no banco 
+retirar a lampada queimada 
+pegar uma nova lampada 
+colocar a lampada nova
+decer do banco 
+guardar o banco
+ligar o interruptor de luz

@@ -1,0 +1,18 @@
+//secao06-exercicio02
+
+Elabore um algoritmo que leia um número, se positivo armazeneo em 'a', se negativo em 'b', no final mostrar o resultado 
+//*
+
+#entrada
+receber número
+
+#processamento
+se número >= 0 então
+    a = número
+    #saida 1
+    mostrar a 
+senão
+    b = número 
+    #saida 2
+    mostrar b
+  

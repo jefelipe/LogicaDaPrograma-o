@@ -1,0 +1,14 @@
+secao08-exercicio4
+
+Escreva um algortmo que leia e mostre um vetor de 20 elementos inteiros, em seguida, mostre a soma de todos os elementos.
+*/
+vetor[20] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+#processamento
+para i = 0, enquanto i < 20, processar
+     escrever "Digite um valor: "
+     #entrada
+     receber vetor[i]
+     soma = soma + vetor[i]
+#saida
+escrever "Vetor: " + vetor
+escrever "soma: " + soma

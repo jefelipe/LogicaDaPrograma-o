@@ -1,0 +1,17 @@
+/*
+Seção 03 - Exercicios 07
+/*
+construir algoritimo que calcula o peso ideal de qualquer pessoa.
+/*
+formula(72.7 * altura) -58
+/*/*
+"Peso ideal"
+
+#entradas
+receber altura da pessoa
+
+#processamento 
+peso_ideal = (72.7 * altura) -58
+
+#saida
+Mostrar peso_ideal

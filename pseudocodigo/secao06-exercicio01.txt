@@ -1,0 +1,16 @@
+//secao06-exercicio01
+
+Ler uma variável numérica n e imprimi-la somente se a mesma for maior que 100, caso contrário imprimi-la com o valor zero.
+
+*/
+//Entradas
+receber n
+
+//Processamento
+se valor > 100 então
+	#SAIDA A  
+	escrever N
+senão
+	valor = 0
+	#SAIDA B
+	escrever N

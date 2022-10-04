@@ -1,0 +1,17 @@
+secao07-exercicio1
+
+Faça um algoritmo que determine o maior entre N números. A condição de parada é a entrade de um valor 0, ou seja, o algoritmo deve dicar calculando o maior valor até que a entrada seja igual a 0(zeno).
+/*
+
+maior = 0
+#entradas
+receber numero
+#Processamento
+enquanto numero != 0 processar
+     se numero > maior então
+         maior = numero
+     receber numero
+#saída
+escrever "Maior valor" + maior
+     
+    

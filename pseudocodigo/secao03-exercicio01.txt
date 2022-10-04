@@ -1,0 +1,20 @@
+/*
+Seção 03 - Exercicios 01
+/*
+indentifique os dados de entrada, processamento e saida no algoritmo abaixo
+/*
+receber codigo da peça
+receber valor da peça
+receber quantidade de peças 
+calcular o valor total da peça (quantidade * valor da peça)
+mostrar o codigo da peça e seu valor total
+*/
+
+#entradas 
+Receber codigo da peça 
+Receber valor da peça 
+Receber quantidade de peças
+#Processamento
+Calcular o valor total da peça(quantidade* valor da peça
+#saida
+Mostrar o codigo da peça e seu valor total

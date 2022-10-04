@@ -1,0 +1,19 @@
+secao07-exercicio2
+
+Faça um algoritmo que conte de 1 a 100 e a cada múltiplo de 10 emita uma mensagem: "Múltiplo de 10"
+
+/*
+
+#Processamento
+para i = 1, enquanto i <= 100, processar
+    escrever i 
+    se ( i % 10 == 0) então
+        escrever "Múltiplo de 10: " + i
+
+
+----------------------
+lembrando sobre o resto da divisão
+
+i % 2 == 0 -> siginifica que o 'i' é par
+
+i % 2 == 1 -> siginifica que 'i' é divisivel po 10

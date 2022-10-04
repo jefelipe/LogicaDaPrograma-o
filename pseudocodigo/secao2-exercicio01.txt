@@ -1,0 +1,20 @@
+/*
+seção 2- exercicio 1
+/*
+pseudocódigo para tomar banho.
+
+ "Tomar banho
+ Entrar no banheiro
+ Tirar a roupa
+ ligue o chuveiro
+ Molhar o corpo
+ Desligar o chuveiro
+ passar o sabonete
+ ligar o chuveiro
+ lavar o corpo
+ tirar o sabão
+ desligar o chuveiro 
+ enchugar-se
+ colocar a roupa
+ sair do banheiro
+ 

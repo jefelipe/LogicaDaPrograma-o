@@ -1,0 +1,54 @@
+secao07-exercicio7
+
+Sua organização acaba de contratar um estagiário para trabalhar no suporte de informática, com a intenção de fazer um levantamento nas sucatas encontradas na área. A primeira tarefa dele é testar todos os cerca de 200 mouses que se contontra lá, testando e anotando o estado de cada um deles, para verificar o que pode aproveitar deles. Foi requisitado que você desenvolva um programa para registrar este levantamento. O programa deverá receber um número inderterminado de entradas, cada uma contendo: um número de identificação do mouse e o tipo de defeito:
+- necessita de esfera;
+- necessita de límpeza;
+- necessita troca do cabo ou conector;
+- quebrado ou inutilizado;
+ Uma identificação igual a zero encerra o programa. Ao final o programa deverá emitir o seguinte relatório:
+
+Quantidade de mouses: 100
+
+Situação                                   quantidade             percentual
+1 necessita de esfera                          40                      40%
+2 necessita de límpeza                         30                      30%
+3 necessita troca do cabo ou conector          15                      15%
+4 quebrado ou inutilizado                      15                      15%
+/-
+
+quantidade = 0
+qtd_1 = 0
+qtd_2 = 0
+qtd_3 = 0
+qtd_4 = 0
+#entradas
+escreva "Informe a identificação: "
+receber identificacao
+#processamento
+enquanto identificacao != 0 processar
+    escrever "informe o defeito:
+    receber defeito
+    se defeito == 1 então
+        qtd_1 = qtd_1 + 1
+    se defeito == 2 então
+        qtd_2 = qtd_2 + 1 
+    se defeito == 3 então
+        qtd_3 = qtd_3 + 1 
+    se defeito == 4 então
+        qtd_4 = qtd_4 + 1 
+    quantidade = quantidade + 1
+    escrever " Informe a identificação: "
+    receber identificacao
+per_1 = (qtd_1 * 100) / quantidade
+per_2 = (qtd_2 * 100) / quantidade
+per_3 = (qtd_3 * 100) / quantidade
+per_4 = (qtd_4 * 100) / quantidade
+#saída
+escrever "Quantidade de mouses: " + quantidade
+
+escrever "Situação                              quantidade             percentual
+escrever "1 necessita de esfera"                 +qtd_1+                 per_1+ "%" 
+escrever "2 necessita de límpeza"                +qtd_2+                 per_2+ "%" 
+escrever "3 necessita troca do cabo ou conector" +qtd_3+                 per_3+ "%" 
+escrever "4 quebrado ou inutilizado"             +qtd_4+                 per_4+ "%" 
+

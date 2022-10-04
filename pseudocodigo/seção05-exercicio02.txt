@@ -1,0 +1,15 @@
+// seção 5 exercicio 02
+
+sabendo que a = 3, b = 7, c = 4, informe se as expressões abaixo são verdadeira ou falsa.
+
+//*
+
+A) (a + c) > b    ( ) verdadeira (x) falsa
+
+B) b >= (a + 2)   (x) verdadeira ( ) falsa
+
+C) c == (b-a)     (x) verdadeira ( ) falsa
+
+D) (b+a) <= c     ( ) verdadeira (x) falsa
+
+E) (c + a) > b    ( ) verdadeira (x) falsa

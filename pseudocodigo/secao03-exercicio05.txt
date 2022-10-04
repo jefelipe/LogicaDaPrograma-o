@@ -1,0 +1,14 @@
+/*
+Seção 03 - Exercicios 05
+/*
+Faça um algoritmo que converta metros em cm.
+
+//*
+
+"Metros para cm"
+#Entradas
+receber valor em metros 
+#Processamento
+Multiplicar os metros por 100
+#saida 
+Mostrar o resultado da multiplicação
