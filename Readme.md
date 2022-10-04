@@ -1,0 +1,1 @@
+Projeto onde eu coloco meus pseudocodigos, para treino de lógica de programação.
